@@ -1,8 +1,8 @@
 :root {
-  --main-color: #0626c4;
+  --main-color: #8000ff;
   --background: #1d1d1e;
   --secondary: #262626;
-  --link: #f54254; 
+  --link: #de02de; 
   --text-color: #fff;
   --secondary-text-color: #dcdcdc;
 }
@@ -282,4 +282,6 @@ div#features:hover {
   text-align: center;
   padding: 18px;
 }
+
+
 
